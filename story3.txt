@@ -1,0 +1,2 @@
+this is a text file of story3
+git is a version control system to maintain all versions of coding
