@@ -1,1 +1,2 @@
 created a static story1 file and will stage the file
+and added some extra test for testing
